@@ -1,0 +1,37 @@
+{
+  "level": 1,
+  "exp": "0/100",
+  "class": "無職",
+  "subclass": null,
+  "gold": 10,
+  "location": "青石鎮・採礦公會",
+  "stats": {
+    "strength": 10,
+    "agility": 10,
+    "constitution": 10,
+    "spirit": 10,
+    "insight": 10,
+    "perception": 10,
+    "luck": 5
+  },
+  "resources": {
+    "hp": "100/100",
+    "stamina": "100/100",
+    "mana": "50/50",
+    "innerQi": "0/0"
+  },
+  "proficiencies": {
+    "sword": 0,
+    "blade": 0,
+    "spear": 0,
+    "bow": 0,
+    "unarmed": 0,
+    "magic": 0,
+    "innerPower": 0,
+    "mechanism": 0,
+    "smithing": 0,
+    "gathering": 0,
+    "alchemy": 0,
+    "cooking": 0
+  }
+}
