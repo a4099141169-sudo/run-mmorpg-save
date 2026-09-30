@@ -1,0 +1,30 @@
+{
+  "active": [
+    {
+      "id": "first_bucket_of_gold",
+      "name": "第一桶金",
+      "objectives": [
+        {
+          "type": "gather",
+          "item": "鐵礦",
+          "required": 10,
+          "current": 0
+        },
+        {
+          "type": "gather",
+          "item": "銅礦",
+          "required": 3,
+          "current": 0
+        },
+        {
+          "type": "defeat",
+          "target": "礦鼠",
+          "required": 5,
+          "current": 0
+        }
+      ],
+      "hiddenCondition": "未知",
+      "reward": "未知"
+    }
+  ]
+}
