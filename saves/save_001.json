@@ -1,0 +1,16 @@
+{
+  "saveId": "save_001",
+  "session": 1,
+  "world": "玄瀾界",
+  "playerLocation": "青石鎮・採礦公會",
+  "playerLevel": 1,
+  "class": "無職",
+  "system": "萬界玩家系統",
+  "quest": "第一桶金",
+  "storyCheckpoint": "已取得新手採礦資源並完成舊礦道情報詢問，尚未開始任務。",
+  "worldIntel": [
+    "舊礦道第三層附近存在未知黑色金屬通道",
+    "十年前17名礦工進入，3人返回且精神異常"
+  ],
+  "pendingAction": "開始第一桶金任務或進行其他行動"
+}
